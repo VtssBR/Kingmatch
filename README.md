@@ -8,29 +8,29 @@ O projeto compreende uma página inicial que oferece funcionalidades de login e 
 
 ## 🧰 Tecnologias 
 
-* PHP - Responsável pela estrutura da página e logica de conexão ao banco de dados
+* PHP - Responsável pela estrutura da página e pela lógica de conexão com o banco de dados.
 * CSS - Utilizado para a estilização das páginas.
-* MySQL - Banco local utilizado no projeto
-* Workbench - Implementado para visualização de registros e alteração (opcional)
-* XAMPP - Utilizado para o  ambiente de desenvolvimento local na web.
+* MySQL - Banco de dados local utilizado no projeto.
+* Workbench - Implementado para visualização de registros e alterações (opcional).
+* XAMPP - Utilizado para criar um ambiente de desenvolvimento web local.
 
 ## 🔌 Inicialização 
 
 Para começar, siga os passos abaixo:
 
-Primeiramente é necessario instalar o XAMPP
+* Primeiramente é necessario instalar o XAMPP
 
-* Localize a pasta **xampp** no disco C: do computador e localize a pasta **htdocs**
+* Localize a pasta **xampp** no disco C: do seu computador e encontre a pasta **htdocs**.
 
-* Dentro da pasta inclua o arquivo com o projeto
+* Dentro dessa pasta, inclua o arquivo com o projeto.
 
-* Logo apos inicie o XAMPP e inicie o MySQL e O Apache
+* Em seguida, inicie o XAMPP e ligue o MySQL e o Apache.
 
-* Abra o navegador e na URl digite por localhost 
+* Abra o navegador e digite "localhost" na URL.
 
-* Clique na pasta do projeto e assim abrira-lo
+* Clique na pasta do projeto para abri-lo.
 
-* Lembrando que meu projeto esta configurado para rodar na porta 3312 podendo a sua ser a padrao 3306, assim sendo necessario remova a linha do codigo na classe de Conexão **";port=3312"**
+* Lembre-se de que o projeto está configurado para rodar na porta 3312, mas a sua porta pode ser a padrão, que é 3306. Portanto, se necessário, remova a linha de código na classe de Conexão que contém **";port=3312"**.
 
 ## 📷 Imagens 
 
